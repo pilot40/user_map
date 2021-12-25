@@ -1,0 +1,5 @@
+material : "dry.tex"
+{
+	texture : "roadtotuva1.tobj"
+	texture_name : "texture"
+}
