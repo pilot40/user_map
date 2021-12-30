@@ -82,6 +82,13 @@ editor_data : .edit_data {
 	bcg_size_y[]: 320720
 	bcg_offset_x[]: 0
 	bcg_offset_y[]: 0
+	
+	bcg_map_name[]: "/map/roadtotuva2.mbd"
+	bcg_material[]: "/material/editor/roadtotuva2.mat"
+	bcg_size_x[]: 713000
+	bcg_size_y[]: 713000
+	bcg_offset_x[]: 0
+	bcg_offset_y[]: 0
 
 # For INTERNAL members: Please for added custom map use "/mod_internal/base/def/editor_data_custom.sii".
 # This one below going to be overriden.
