@@ -1,0 +1,6 @@
+﻿company_permanent: company.permanent.lentasum
+{
+	name: "Лента"
+	sort_name: "lentasum"
+	trailer_look: lentasum
+}

@@ -1,0 +1,10 @@
+# Modders: Use this file to add your own map specification.
+
+	bcg_map_name[]: "/map/roadtotuva1.mbd"
+	bcg_material[]: "/material/editor/roadtotuva1.mat"
+	bcg_size_x[]: 16880
+	bcg_size_y[]: 16880
+	#bcg_offset_x[]: 0
+	#bcg_offset_y[]: 0
+	bcg_offset_x[]: 283368
+	bcg_offset_y[]: -34789

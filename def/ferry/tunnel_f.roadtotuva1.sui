@@ -1,0 +1,9 @@
+ferry_data: ferry.tunnel_f
+{
+	ferry_name: "krasnoyarsk"
+	ferry_name_localized: "@@krasnoyarsk@@"
+	transport_type: "train"
+
+}
+
+

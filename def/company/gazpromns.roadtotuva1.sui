@@ -1,0 +1,6 @@
+﻿company_permanent: company.permanent.gazpromns
+{
+	name: "ГАЗПРОМ-НефтехимКрасноярск"
+	sort_name: "ГАЗПРОМ-НС"
+	trailer_look: gazpromns
+}
